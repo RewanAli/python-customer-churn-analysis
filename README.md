@@ -49,9 +49,13 @@ To explore the dataset visually and statistically in order to:
 - Seaborn
 - Matplotlib
 
-## 🖼️ Example Output
+## 🖼️ visuals
 
 project visuals:(https://drive.google.com/drive/folders/1vuWBn3l8dI1q_d405tmUnX9fgnwa67X9)  
+
+## 🖼️ Data set link
+
+Bank_churn: (https://www.kaggle.com/datasets/barelydedicated/bank-customer-churn-modeling?resource=download)
 
 
 
